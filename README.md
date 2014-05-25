@@ -35,3 +35,5 @@
 * http://en.wikipedia.org/wiki/Maximum-entropy_Markov_model
 
 * http://en.wikipedia.org/wiki/Named-entity_recognition Algorithems 
+
+* https://github.com/SergioFierens/ai4r
