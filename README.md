@@ -31,3 +31,7 @@
 * http://interactivepython.org/courselib/static/pythonds/index.html
 
 * http://en.wikipedia.org/wiki/Genetic_algorithm
+
+* http://en.wikipedia.org/wiki/Maximum-entropy_Markov_model
+
+* http://en.wikipedia.org/wiki/Named-entity_recognition Algorithems 
