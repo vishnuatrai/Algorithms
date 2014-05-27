@@ -1,16 +1,8 @@
-* Shortest path(Dijkstra's) algorithem
-
 * Image crop and resize algorithem
 
 * The European Rock Tour Problem
 
 * Travelling Salesman algorithem
-
-* The Monty Hall Problem
-
-* Simulating the Game of Life
-
-* Turtle graphics algorithms
 
 * Mars rover problem
 
