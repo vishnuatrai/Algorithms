@@ -4,8 +4,6 @@
 
 * Travelling Salesman algorithem
 
-* Mars rover problem
-
 * The Museum Visitor Routing Problem
 
 * http://www.techinterviewpuzzles.com/2010/09/mars-rovers-thoughtworks-puzzles.html
