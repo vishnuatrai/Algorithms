@@ -53,3 +53,7 @@
 #   computers usually have gigabytes of memory, so you might choose the second algorithm for greater speed 
 #   and live with using more memory.
 #
+#   http://interactivepython.org/courselib/static/pythonds/AlgorithmAnalysis/analysis.html
+#   http://interactivepython.org/courselib/static/pythonds/index.html
+#   https://github.com/SergioFierens/ai4r
+#
