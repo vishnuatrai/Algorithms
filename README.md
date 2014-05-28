@@ -6,6 +6,8 @@
 
 * The Museum Visitor Routing Problem
 
+* Spanning tree problem
+
 * http://www.techinterviewpuzzles.com/2010/09/mars-rovers-thoughtworks-puzzles.html
 
 * http://en.wikipedia.org/wiki/Evolution 
@@ -13,8 +15,6 @@
 * http://www.ai4r.org/geneticAlgorithms.html 
 
 * http://en.wikipedia.org/wiki/Travelling_salesman_problem
-
-* http://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 
 * https://fiftyexamples.readthedocs.org/en/latest/complexity.html
 
