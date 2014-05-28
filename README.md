@@ -1,3 +1,7 @@
+* Genetic Algorithms
+
+* Numerical Algorithms
+
 * Image crop and resize algorithem
 
 * The European Rock Tour Problem

@@ -30,7 +30,7 @@
 #
 #       Each rover will be finished sequentially, which means that the second rover won’t start
 #       to move until the first one has finished moving.
-#
+#Another reference code - https://github.com/dalibor/mars_rover
 module Directions
   def self.from_s(direction)
     case
