@@ -29,3 +29,11 @@
 * http://en.wikipedia.org/wiki/Named-entity_recognition Algorithems 
 
 * https://github.com/SergioFierens/ai4r
+
+* http://interactivepython.org/runestone/static/pythonds/index.html
+
+* http://www.tutorialspoint.com/data_structures_algorithms/index.htm
+
+* https://www.cs.auckland.ac.nz/~jmor159/PLDS210/ds_ToC.html
+ 
+
